@@ -1,0 +1,4 @@
+**/tests/
+**/.ipynb_checkpoints/
+**/*.joblib
+**/ssd_model.pt

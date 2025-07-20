@@ -1,0 +1,7 @@
+b1: 0.5
+b2: 0.999
+channels: 3
+height: 28
+lr: 0.0002
+noise_dim: 100
+width: 28
